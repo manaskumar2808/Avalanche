@@ -1,0 +1,38 @@
+export default [
+    {
+        id: "u1",
+        userName: "mandyport241",
+        firstName: "Mandy",
+        lastName: "Port",
+        profileImageUrl: "https://cdn.pixabay.com/photo/2016/03/09/15/10/man-1246508__340.jpg",
+        email: "mandyport@gmail.com",
+        themeImageUrl: "https://images.unsplash.com/photo-1523540499309-18d7a30ddf76?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    }, 
+    {
+        id: "u2",
+        userName: "maryjane",
+        firstName: "Mary",
+        lastName: "Jane",
+        profileImageUrl: "https://cdn.pixabay.com/photo/2020/05/17/20/21/cat-5183427__340.jpg",
+        email: "maryjane@gmail.com",
+        themeImageUrl: "https://images.unsplash.com/photo-1612409578638-b890d0fa9364?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDE2fGJvOGpRS1RhRTBZfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    },
+    {
+        id: "u3",
+        userName: "jackdaniel247",
+        firstName: "Jack",
+        lastName: "Daniel",
+        profileImageUrl: "https://images.unsplash.com/photo-1610300682526-8c48f59bebf0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjN8fHByb2ZpbGUlMjBwaWN0dXJlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        email: "jackdaniel@gmail.com",
+        themeImageUrl: "https://images.unsplash.com/photo-1611802647139-91d19b9bb056?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDg2fGJvOGpRS1RhRTBZfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    },
+    {
+        id: "u4",
+        userName: "jennyale",
+        firstName: "Jenny",
+        lastName: "Ale",
+        profileImageUrl: "https://images.unsplash.com/photo-1558898479-33c0057a5d12?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZmlsZSUyMHBpY3R1cmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+        email: "jennyale@gmail.com",
+        themeImageUrl: "https://images.unsplash.com/photo-1606669059257-19fc4ca49f79?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwOXxibzhqUUtUYUUwWXx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    },
+];

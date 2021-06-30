@@ -1,0 +1,15 @@
+export {
+    autoLogin,
+    setUserNameAndEmail,
+    setProfileInfo,
+    setProfileImage,
+    setBio,
+    setThemeImage,
+    setThemeIndex,
+    resetAuthParameters,
+    authSuccess,
+    authFail,
+    login,
+    signup,
+    logout,
+} from './actions/authAction';

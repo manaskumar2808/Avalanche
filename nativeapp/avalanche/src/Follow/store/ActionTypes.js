@@ -1,0 +1,5 @@
+
+export const SET_FOLLOWERS = 'SET_FOLLOWERS';
+export const SET_FOLLOWEDS = 'SET_FOLLOWEDS';
+export const FOLLOW_SUCCESS = 'FOLLOW_SUCCESS';
+export const FOLLOW_FAIL = 'FOLLOW_FAIL';
